@@ -1,1 +1,1 @@
-# task-8---maveric-superstore-sales-
+# task-8---Simple Sales Dashboard Design-
